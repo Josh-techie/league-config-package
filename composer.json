@@ -1,4 +1,14 @@
 {
-    "name": "josh-techie/sprint3",
-    "description": "A demo package for sprint 3 project at void",
+    "name": "josh-techie/league-config",
+    "description": "This is a demo package basically the code is from the PHP League Config",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Josh-Techie",
+            "email": "youssef.abouyahia@e-polytechnique.ma"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
 }
